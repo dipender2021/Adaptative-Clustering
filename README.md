@@ -225,7 +225,7 @@
 | Target Project    | Number of Clusters |
 |-------------------|---------------------|
 | Apache            | 5                   |
-| Safe              | 2                   |
+| Safe              | 3                   |
 | Zxing             | 4                   |
 | Equinox           | 5                   |
 | Jdt               | 4                   |
