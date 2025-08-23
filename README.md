@@ -220,4 +220,33 @@
 | REXP   | Developer’s recent experience, often computed with time-decay weighting. |
 | SEXP   | Developer’s experience within the specific subsystem of the modified files. |
 
+# Number of Clusters divide each target Project using adaptive spectral clustering
+
+| Target Project    | Number of Clusters |
+|-------------------|---------------------|
+| Apache            | 5                   |
+| Safe              | 2                   |
+| Zxing             | 4                   |
+| Equinox           | 5                   |
+| Jdt               | 4                   |
+| Lucene            | 5                   |
+| Mylyn             | 2                   |
+| Pde               | 5                   |
+| Activemq-5.2.0    | 5                   |
+| Derby-10.2.1.6    | 5                   |
+| Groovy-1_5_7      | 5                   |
+| Hbase-0.94.0      | 2                   |
+| Hive-0.9.0        | 2                   |
+| Jruby-1.1         | 5                   |
+| Wicket-1.3.0beta-1| 2                   |
+| Ant-1.3           | 4                   |
+| Ivy-2.0           | 4                   |
+| Jedit-4.1         | 4                   |
+| Log4j-1.0         | 3                   |
+| Synapse-1.2       | 3                   |
+| Tomcat            | 5                   |
+| Xalan-2.4         | 4                   |
+| Bugzilla          | 4                   |
+| Columba           | 3                   |
+| Postgres          | 5                   |
 
