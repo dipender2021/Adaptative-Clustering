@@ -220,7 +220,7 @@
 | REXP   | Developer’s recent experience, often computed with time-decay weighting. |
 | SEXP   | Developer’s experience within the specific subsystem of the modified files. |
 
-# Number of Clusters divide each target Project using adaptive spectral clustering
+# Number of Clusters for each target Project using adaptive spectral clustering
 
 | Target Project    | Number of Clusters |
 |-------------------|---------------------|
