@@ -250,34 +250,6 @@
 | Columba               | 3 |
 | Postgres              | 5 |
 
-# Clusters Selected for Every Target Project
 
-| Target Project        | Clusters Selected for Training |
-|-----------------------|--------------------------------|
-| Apache                | Zxing_C1, Safe_C2, Safe_C1, Zxing_C2, Safe_C3 |
-| Safe                  | Zxing_C1, Apache_C2, Apache_C5, Apache_C3, Apache_C1 |
-| Zxing                 | Apache_C3, Apache_C1, Apache_C4, Apache_C2, Safe_C2 |
-| Equinox               | Pde_C1, Lucene_C1, Jdt_C1, Mylyn_C1, Mylyn_C2 |
-| Jdt                   | Mylyn_C1, Pde_C1, Lucene_C1, Equinox_C1, Equinox_C2 |
-| Lucene                | Pde_C1, Jdt_C1, Equinox_C1, Mylyn_C1, Equinox_C2 |
-| Mylyn                 | Pde_C1, Jdt_C1, Lucene_C1, Equinox_C1, Pde_C3 |
-| Pde                   | Equinox_C1, Jdt_C1, Mylyn_C1, Lucene_C1, Equinox_C2 |
-| Activemq-5.2.0        | Groovy-1_5_7_C2, Derby-10.2.1.6_C1, Hive-0.9.0_C2, Hive-0.9.0_C1, Hive-0.9.0_C3 |
-| Derby-10.2.1.6        | Jruby-1.1_C1, Wicket-1.3.0-incubating-beta-1_C2, Hbase-0.94.0_C2, Hive-0.9.0_C1, Activemq-5.2.0_C1 |
-| Groovy-1_5_7          | Jruby-1.1_C1, Wicket-1.3.0-incubating-beta-1_C1, Derby-10.2.1.6_C1, Hive-0.9.0_C1, Hbase-0.94.0_C2 |
-| Hbase-0.94.0          | Hive-0.9.0_C1, Jruby-1.1_C1, Wicket-1.3.0-incubating-beta-1_C1, Derby-10.2.1.6_C1, Activemq-5.2.0_C3 |
-| Hive-0.9.0            | Hbase-0.94.0_C3, Hbase-0.94.0_C1, Wicket-1.3.0-incubating-beta-1_C1, Derby-10.2.1.6_C1, Jruby-1.1_C1 |
-| Jruby-1.1             | Hive-0.9.0_C1, Derby-10.2.1.6_C1, Wicket-1.3.0-incubating-beta-1_C2, Activemq-5.2.0_C1, Groovy-1_5_7_C2 |
-| Wicket-1.3.0beta-1    | Derby-10.2.1.6_C1, Jruby-1.1_C1, Activemq-5.2.0_C1, Hbase-0.94.0_C2, Hive-0.9.0_C2 |
-| Ant-1.3               | Xalan-2.4_C1, Jedit-4.1_C2, Synapse-1.2_C1, Tomcat_C1, Ivy-2.0_C2 |
-| Ivy-2.0               | Synapse-1.2_C1, Ant-1.3_C1, Log4j-1.0_C1, Jedit-4.1_C3, Xalan-2.4_C2 |
-| Jedit-4.1             | Xalan-2.4_C1, Synapse-1.2_C4, Ant-1.3_C1, Ivy-2.0_C2, Tomcat_C1 |
-| Log4j-1.0             | Synapse-1.2_C1, Xalan-2.4_C2, Tomcat_C1, Xalan-2.4_C3, Ant-1.3_C1 |
-| Synapse-1.2           | Xalan-2.4_C1, Jedit-4.1_C2, Log4j-1.0_C2, Ant-1.3_C2, Ivy-2.0_C3 |
-| Tomcat                | Ant-1.3_C2, Jedit-4.1_C2, Xalan-2.4_C2, Xalan-2.4_C4, Log4j-1.0_C2 |
-| Xalan-2.4             | Tomcat_C1, Ant-1.3_C2, Tomcat_C2, Log4j-1.0_C2, Synapse-1.2_C3 |
-| Bugzilla              | Postgres_C1, Columba_C1, Columba_C3, Postgres_C4, Postgres_C3, Columba_C2 |
-| Columba               | Postgres_C1, Bugzilla_C1, Postgres_C2, Postgres_C3, Postgres_C4 |
-| Postgres              | Bugzilla_C1, Columba_C1, Columba_C2, Bugzilla_C3, Bugzilla_C2 |
 
 
