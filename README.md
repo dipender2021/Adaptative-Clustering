@@ -1,4 +1,4 @@
-# Adaptative-Clustering
+# Adaptive Spectral Clustering and Structural Alignment
 # Details of Datasets
 1 ReLink dataset :"Wu, Rongxin, et al. "Relink: recovering links between bugs and changes." Proceedings of the 19th ACM SIGSOFT symposium and the 13th European conference on Foundations of software engineering. 2011".
 
@@ -373,4 +373,33 @@
 | 1.00  | 0.78        | 0.04     | 0.35        | 0.05     |
 
 
+## Runtime by Target Project
+
+| Target Project        | Run time |
+|----------------------|---------:|
+| Apache               |     1.10 |
+| Safe                 |     0.46 |
+| Zxing                |     0.39 |
+| Equinox              |     4.89 |
+| Jdt                  |     4.88 |
+| Lucene               |     3.97 |
+| Mylyn                |     3.13 |
+| Pde                  |     3.75 |
+| Activemq-5.2.0       |     7.29 |
+| Derby-10.2.1.6       |     7.66 |
+| Groovy-1_5_7         |     8.65 |
+| Hbase-0.94.0         |     9.09 |
+| Hive-0.9.0           |     8.71 |
+| Jruby-1.1            |     8.20 |
+| Wicket-1.3.0beta-1   |     6.67 |
+| Ant-1.3              |     2.15 |
+| Ivy-2.0              |     1.45 |
+| Jedit-4.1            |     1.48 |
+| Log4j-1.0            |     1.51 |
+| Synapse-1.2          |     1.54 |
+| Tomcat               |     1.48 |
+| Xalan-2.4            |     1.56 |
+| Bugzilla             |   961.33 |
+| Columba              |   968.15 |
+| Postgres             |   219.95 |
 
