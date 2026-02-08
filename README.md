@@ -403,6 +403,8 @@
 | Columba              |   968.15 |
 | Postgres             |   219.95 |
 
+## Performance of ASCSA under different normalization techniques
+
 | Target Project        | ASCSA_Min-Max AUC | ASCSA_Min-Max MCC | ASCSA_Z-score AUC | ASCSA_Z-score MCC | ASCSA_log AUC | ASCSA_log MCC |
 |----------------------|---------------|---------------|-------------------|-------------------|---------------|---------------|
 | Apache               | 0.78          | 0.44          | 0.77              | 0.35              | 0.80          | 0.40          |
